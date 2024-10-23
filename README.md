@@ -15,6 +15,24 @@ Spatially resolved integration of multi-omics with DIRAC highlights cell-specifi
 
 For more details, please check out our [publication](https://doi.org/10.1038/s41587-022-01284-4).
 
+## Directory structure
+
+```
+.
+├── dirac                  # Main Python package
+├── data                    # Data files
+├── evaluation              # Method evaluation pipelines
+├── experiments             # Experiments and case studies
+├── tests                   # Unit tests for the Python package
+├── docs                    # Documentation files
+├── custom                  # Customized third-party packages
+├── packrat                 # Reproducible R environment via packrat
+├── env.yaml                # Reproducible Python environment via conda
+├── pyproject.toml          # Python package metadata
+├── LICENSE
+└── README.md
+```
+
 ## Installation
 
 The `spagnns` package can be installed via conda using one of the following commands:
