@@ -11,7 +11,7 @@
 
 Spatially resolved integration of multi-omics with DIRAC highlights cell-specific remodeling
 
-![Model architecture](docs/Workflow.png)
+![Model architecture](docs/figs/Workflow.png)
 
 For more details, please check out our [publication](https://doi.org/10.1038/s41587-022-01284-4).
 
