@@ -8,6 +8,13 @@
 [![coverage-badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Jeff1995/e704b2f886ff6a37477311b90fdf7efa/raw/coverage.json)](https://github.com/gao-lab/GLUE/actions/workflows/build.yml)
 [![license-badge](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
+Graph-linked unified embedding for single-cell multi-omics data integration
+
+![Model architecture](docs/_static/architecture.svg)
+
+For more details, please check out our [publication](https://doi.org/10.1038/s41587-022-01284-4).
+
 ## Installation
 
 The `spagnns` package can be installed via conda using one of the following commands:
