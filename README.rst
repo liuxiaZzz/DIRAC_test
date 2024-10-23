@@ -30,4 +30,4 @@ pip install spagnns
 ## Usage
 
 Please checkout the documentations and tutorials at
-[spagnns.readthedocs.io](https://runspagnns.readthedocs.io/).
+[spagnns.readthedocs.io](https://DIRAC.readthedocs.io/).
