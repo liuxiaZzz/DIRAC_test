@@ -9,7 +9,7 @@
 [![license-badge](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-Graph-linked unified embedding for single-cell multi-omics data integration
+Spatially resolved integration of multi-omics with DIRAC highlights cell-specific remodeling
 
 ![Model architecture](docs/Workflow.png)
 
