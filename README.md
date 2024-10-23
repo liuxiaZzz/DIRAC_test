@@ -13,8 +13,8 @@
 The `spagnns` package can be installed via conda using one of the following commands:
 
 ```sh
-conda install -c conda-forge -c bioconda spagnns  # CPU only
-conda install -c conda-forge -c bioconda spagnns pytorch-gpu  # With GPU support
+conda install -c conda-forge -c bioconda dirac  # CPU only
+conda install -c conda-forge -c bioconda dirac pytorch-gpu  # With GPU support
 ```
 
 Or, it can also be installed via pip:
