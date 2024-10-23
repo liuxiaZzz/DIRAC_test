@@ -9,7 +9,7 @@
 [![license-badge](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-Spatially resolved integration of multi-omics with DIRAC highlights cell-specific remodeling
+### Spatially resolved integration of multi-omics with DIRAC highlights cell-specific remodeling
 
 ![Model architecture](docs/Figs/Workflow.png)
 
