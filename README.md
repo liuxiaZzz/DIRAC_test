@@ -1,6 +1,6 @@
 # DIRAC (Domain Invariant Respresentation through Adversatial Calibration)
 
-[![stars-badge](https://img.shields.io/github/stars/gao-lab/GLUE?logo=GitHub&color=yellow)](https://github.com/gao-lab/GLUE/stargazers)
+[![stars-badge](https://img.shields.io/github/stars/gao-lab/GLUE?logo=GitHub&color=yellow)](https://github.com/boxiangliulab/DIRAC/stargazers)
 [![pypi-badge](https://img.shields.io/pypi/v/scglue)](https://pypi.org/project/scglue)
 [![conda-badge](https://anaconda.org/bioconda/scglue/badges/version.svg)](https://anaconda.org/bioconda/scglue)
 [![docs-badge](https://readthedocs.org/projects/scglue/badge/?version=latest)](https://scglue.readthedocs.io/en/latest/?badge=latest)
