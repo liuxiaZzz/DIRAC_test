@@ -55,4 +55,4 @@ pip install spagnns
 ## Usage
 
 Please checkout the documentations and tutorials at
-[dirac.readthedocs.io](https://smdirac.readthedocs.io/).
+[dirac.readthedocs.io](https://dirac-tutorial.readthedocs.io/en/latest/).
