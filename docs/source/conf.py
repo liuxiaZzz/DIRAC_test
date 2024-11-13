@@ -42,7 +42,7 @@ html_theme_options = {
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': True,
-    'github_url': 'https://github.com/EsdenRun/DIRAC',  
+    'github_url': 'https://github.com/boxiangliulab/DIRAC',  
 }
 
 # -- Options for EPUB output
