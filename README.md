@@ -13,7 +13,7 @@
 
 ![Model architecture](docs/Figs/Workflow.png)
 
-For more details, please check out our [publication](https://doi.org/10.1038/s41587-022-01284-4).
+For more details, please check out our [publication]().
 
 ## Directory structure
 
