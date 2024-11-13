@@ -40,7 +40,7 @@ conda install -c conda-forge -c bioconda dirac pytorch-gpu  # With GPU support
 Or, it can also be installed via pip:
 
 ```sh
-pip install spagnns
+pip install sodirac
 ```
 
 > Installing within a
