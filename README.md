@@ -21,12 +21,7 @@ For more details, please check out our [publication]().
 .
 ├── dirac                  # Main Python package
 ├── data                    # Data files
-├── evaluation              # Method evaluation pipelines
-├── experiments             # Experiments and case studies
-├── tests                   # Unit tests for the Python package
 ├── docs                    # Documentation files
-├── custom                  # Customized third-party packages
-├── packrat                 # Reproducible R environment via packrat
 ├── env.yaml                # Reproducible Python environment via conda
 ├── pyproject.toml          # Python package metadata
 ├── LICENSE
