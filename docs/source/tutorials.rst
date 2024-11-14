@@ -19,10 +19,10 @@ Tutorials
 
 
 
-.. nbgallery::
+.. toctree::
    :maxdepth: 1
 
-   .. nbsphinx-link:: ../notebooks/run_DIRAC_DBit-seq.ipynb
-   .. nbsphinx-link:: ../notebooks/run_DIRAC_on_DLPFC.ipynb
-   .. nbsphinx-link:: ../notebooks/run_DIRAC_mouse_spleen_bin100.ipynb
-   .. nbsphinx-link:: ../notebooks/run_DIRAC_mouse_spleen_cellbin.ipynb
+   ../notebooks/run_DIRAC_DBit-seq.ipynb
+   ../notebooks/run_DIRAC_on_DLPFC.ipynb
+   ../notebooks/run_DIRAC_mouse_spleen_bin100.ipynb
+   ../notebooks/run_DIRAC_mouse_spleen_cellbin.ipynb
