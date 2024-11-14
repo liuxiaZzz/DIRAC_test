@@ -27,6 +27,8 @@ intersphinx_disabled_domains = ['std']
 
 # -- Options for HTML output
 
+templates_path = ['_templates']
+
 html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
