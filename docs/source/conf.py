@@ -17,7 +17,10 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'nbsphinx',
 ]
+
+nbsphinx_allow_errors = True
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
