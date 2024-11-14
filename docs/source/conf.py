@@ -18,6 +18,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'nbsphinx',
+    'nbsphinx_link',
 ]
 
 nbsphinx_allow_errors = True
