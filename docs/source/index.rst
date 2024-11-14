@@ -32,7 +32,7 @@ For more details about the DIRAC framework, please check out our `publication <h
    :maxdepth: 2
    :caption: Contents:
 
-   install.rds
-   tutorials.rds
-   credits.rds
+   install
+   tutorials
+   credits
 
