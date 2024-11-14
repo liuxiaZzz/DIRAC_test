@@ -25,13 +25,6 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
-templates_path = ['_templates']
-
-sphinx_gallery_conf = {
-    'examples_dirs': 'notebooks',  
-    'gallery_dirs': 'auto_gallery', 
-}
-
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
