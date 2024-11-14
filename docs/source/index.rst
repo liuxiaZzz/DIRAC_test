@@ -29,7 +29,8 @@ For more details about the DIRAC framework, please check out our `publication <h
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :caption: General
 
    install
    tutorials
