@@ -19,8 +19,8 @@ Tutorials
 
 
 
-.. toctree::
-   :maxdepth: 2
+.. nbgallery::
+   :maxdepth: 1
 
    .. nbsphinx-link:: ../notebooks/run_DIRAC_DBit-seq.ipynb
    .. nbsphinx-link:: ../notebooks/run_DIRAC_on_DLPFC.ipynb
