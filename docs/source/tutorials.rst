@@ -20,7 +20,7 @@ Tutorials
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    ../notebooks/run_DIRAC_DBit-seq.ipynb
    ../notebooks/run_DIRAC_on_DLPFC.ipynb
