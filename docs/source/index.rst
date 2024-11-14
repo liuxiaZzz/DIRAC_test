@@ -1,4 +1,4 @@
-Welcome to DIRAC's v3 documentation!
+Welcome to DIRAC's v4 documentation!
 ===================================
 
 .. image:: ../Figs/logo.png
