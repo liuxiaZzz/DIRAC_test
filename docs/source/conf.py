@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'DIRAC'
-copyright = '2024, XU CHANG'
-author = 'XU CHANG'
+copyright = '2024, CHANG XU'
+author = 'CHANG XU'
 
 release = '0.1'
 version = '0.1.0'
@@ -46,4 +46,4 @@ html_theme_options = {
 }
 
 # -- Options for EPUB output
-epub_show_urls = 'footnote'
+epub_show_urls = 'footnote' 
