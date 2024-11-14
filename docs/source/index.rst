@@ -22,7 +22,7 @@ DIRAC primarily includes two integration paradigms: vertical integration and hor
 
 To get started with ``DIRAC``, check out the `installation guide <install.rst>`__ and `tutorials <tutorials.rst>`__.
 
-For more details about the DIRAC framework, please check out our `publication <https://doi.org/10.1038/s41587-022-01284-4>`__.
+For more details about the DIRAC framework, please check out our `publication < >`__.
 
 .. note::
 
@@ -32,7 +32,7 @@ For more details about the DIRAC framework, please check out our `publication <h
    :maxdepth: 2
    :caption: Contents:
 
-   install
-   tutorials
-   credits
+   install.rds
+   tutorials.rds
+   credits.rds
 
