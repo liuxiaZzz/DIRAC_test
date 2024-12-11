@@ -2,7 +2,6 @@
 
 [![stars-badge](https://img.shields.io/github/stars/boxiangliulab/DIRAC?logo=GitHub&color=yellow)](https://github.com/boxiangliulab/DIRAC/stargazers)
 [![pypi-badge](https://img.shields.io/pypi/v/sodirac)](https://pypi.org/project/sodirac)
-[![conda-badge](https://anaconda.org/bioconda/scglue/badges/version.svg)](https://anaconda.org/bioconda/scglue)
 [![docs-badge](https://readthedocs.org/projects/scglue/badge/?version=latest)](https://rundirac.readthedocs.io/en/latest/?badge=latest)
 [![build-badge](https://github.com/gao-lab/GLUE/actions/workflows/build.yml/badge.svg)](https://github.com/EsdenRun/DIRAC/actions/workflows/build.yml)
 [![coverage-badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Jeff1995/e704b2f886ff6a37477311b90fdf7efa/raw/coverage.json)](https://github.com/EsdenRun/DIRAC/actions/workflows/build.yml)
