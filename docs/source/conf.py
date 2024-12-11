@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'DIRAC'
+project = 'TEST_DIRAC'
 copyright = '2024, CHANG XU'
 author = 'CHANG XU'
 
