@@ -46,7 +46,7 @@ html_theme_options = {
 epub_show_urls = 'footnote' 
 
 nbsphinx_thumbnails = {
-    "../notebooks/run_DIRAC_DBit-seq.ipynb": "_static/tutorials/1_cell_segmentation.png",
+    "../notebooks/run_DIRAC_DBit-seq.ipynb": "../../Figs/tutorial_figs/notebooks_run_DIRAC_DBit-seq_22_0.png",
     "../notebooks/run_DIRAC_on_DLPFC.ipynb": "_static/tutorials/2_svg_identification.png",
     "../notebooks/run_DIRAC_mouse_spleen_bin100.ipynb": "_static/tutorials/3_alignment.png",
     "../notebooks/run_DIRAC_mouse_spleen_cellbin.ipynb": "_static/tutorials/4_tdr.png",
