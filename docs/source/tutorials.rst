@@ -21,14 +21,14 @@ Tutorials
 .. nbgallery::
 
    ../notebooks/run_DIRAC_DBit-seq.ipynb
-      :thumbnail: _static/tutorial_figs/notebooks_run_DIRAC_DBit-seq_22_0.png
+      :thumbnail: ../Figs/tutorial_figs/notebooks_run_DIRAC_DBit-seq_22_0.png
 
    ../notebooks/run_DIRAC_on_DLPFC.ipynb
-      :thumbnail: _static/tutorial_figs/notebooks_run_DIRAC_on_DLPFC_9_1.png
+      :thumbnail: ../Figs/tutorial_figs/notebooks_run_DIRAC_on_DLPFC_9_1.png
 
    ../notebooks/run_DIRAC_mouse_spleen_bin100.ipynb
-      :thumbnail: _static/tutorial_figs/notebooks_run_DIRAC_mouse_spleen_bin100_33_1.png
+      :thumbnail: ../Figs/tutorial_figs/notebooks_run_DIRAC_mouse_spleen_bin100_33_1.png
 
    ../notebooks/run_DIRAC_mouse_spleen_cellbin.ipynb
-      :thumbnail: _static/tutorial_figs/notebooks_run_DIRAC_mouse_spleen_cellbin_26_2.png
+      :thumbnail: ../Figs/tutorial_figs/notebooks_run_DIRAC_mouse_spleen_cellbin_26_2.png
 
