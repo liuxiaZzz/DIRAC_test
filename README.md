@@ -19,19 +19,6 @@ For more details, please check out our [publication]().
 
 ```
 .
-├── dirac                  # Main Python package
-├── data                    # Data files
-├── docs                    # Documentation files
-├── env.yaml                # Reproducible Python environment via conda
-├── pyproject.toml          # Python package metadata
-├── LICENSE
-└── README.md
-```
-
-## Directory structure
-
-```
-.
 ├── sodirac                 # Main Python package
 ├── data                    # Data files
 ├── docs                    # Documentation files
