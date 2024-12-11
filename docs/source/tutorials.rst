@@ -18,9 +18,7 @@ Tutorials
    - We will explore how to utilize DIRAC to construct a spatial multi-omics atlas of immune cells in the mouse spleen to better understand their functions.
 
 
-
-.. toctree::
-   :maxdepth: 2
+.. nbgallery::
 
    ../notebooks/run_DIRAC_DBit-seq.ipynb
    ../notebooks/run_DIRAC_on_DLPFC.ipynb
