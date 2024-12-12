@@ -38,7 +38,7 @@ templates_path = ['_templates']
 html_theme = 'furo'
 
 html_title = "DIRAC documentation"
-html_logo = "..Figs/logo.png"
+html_logo = "../Figs/logo.png"
 
 html_show_sphinx = False
 
