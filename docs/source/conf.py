@@ -37,6 +37,8 @@ templates_path = ['_templates']
 
 html_theme = 'furo'
 
+html_show_sphinx = False
+
 html_theme_options = {
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
