@@ -27,6 +27,7 @@ For more details about the DIRAC framework, please check out our `publication <h
 
    This project is under active development.
 
+```{toctree}
 :hidden: true
 :maxdepth: 3
 :titlesonly: true
