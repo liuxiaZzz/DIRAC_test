@@ -27,15 +27,14 @@ For more details about the DIRAC framework, please check out our `publication <h
 
    This project is under active development.
 
-```{toctree}
-:hidden: true
-:maxdepth: 3
-:titlesonly: true
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+   :titlesonly:
 
-Documentation home <self>
-install
-tutorials
-api
-credits
-GitHub <https://github.com/liuxiaZzz/DIRAC_test>
-```
+   Documentation home <self>
+   install
+   tutorials
+   api
+   credits
+   GitHub <https://github.com/liuxiaZzz/DIRAC_test>
