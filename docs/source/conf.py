@@ -54,9 +54,9 @@ epub_show_urls = 'footnote'
 
 html_static_path = ["../Figs"]
 
-# nbsphinx_thumbnails = {
-#     "notebooks/run_DIRAC_DBit-seq.ipynb": "../Figs/tutorial_figs/notebooks_run_DIRAC_DBit-seq_22_0.png",
-#     "notebooks/run_DIRAC_on_DLPFC.ipynb": "../Figs/tutorial_figs/notebooks_run_DIRAC_on_DLPFC_9_1.png",
-#     "notebooks/run_DIRAC_mouse_spleen_bin100.ipynb": "../Figs/tutorial_figs/notebooks_run_DIRAC_mouse_spleen_bin100_33_1.png",
-#     "notebooks/run_DIRAC_mouse_spleen_cellbin.ipynb": "../Figs/tutorial_figs/notebooks_run_DIRAC_mouse_spleen_cellbin_26_2.png",
-# }
+nbsphinx_thumbnails = {
+    "notebooks/run_DIRAC_DBit-seq": "../Figs/tutorial_figs/notebooks_run_DIRAC_DBit-seq_22_0.png",
+    "notebooks/run_DIRAC_on_DLPFC": "../Figs/tutorial_figs/notebooks_run_DIRAC_on_DLPFC_9_1.png",
+    "notebooks/run_DIRAC_mouse_spleen_bin100": "../Figs/tutorial_figs/notebooks_run_DIRAC_mouse_spleen_bin100_33_1.png",
+    "notebooks/run_DIRAC_mouse_spleen_cellbin": "../Figs/tutorial_figs/notebooks_run_DIRAC_mouse_spleen_cellbin_26_2.png",
+}
