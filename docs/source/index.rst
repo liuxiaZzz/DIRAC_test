@@ -1,11 +1,6 @@
 Welcome to DIRAC's documentation!
 ===================================
 
-.. image:: ../Figs/logo.png
-   :width: 150
-   :alt: DIRAC icon
-   :align: right
-
 ``DIRAC`` (**D**\ omain **I**\ nvariant **R**\ epresentation through **A**\ daptive **C**\ alibration), for spatially resolved integration of multi-omics. 
 
 - DIRAC is a Python package, written in `PyTorch <https://pytorch.org/>`_ and based on `scanpy <https://scanpy.readthedocs.io/en/stable/>`_ ,
