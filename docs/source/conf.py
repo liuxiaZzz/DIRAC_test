@@ -52,7 +52,7 @@ html_theme_options = {
 # -- Options for EPUB output
 epub_show_urls = 'footnote' 
 
-html_static_path = ["../Figs"]
+# html_static_path = ["../Figs"]
 
 nbsphinx_thumbnails = {
     "notebooks/run_DIRAC_DBit-seq": "../Figs/tutorial_figs/notebooks_run_DIRAC_DBit-seq_22_0.png",
