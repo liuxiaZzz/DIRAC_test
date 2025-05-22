@@ -26,6 +26,10 @@ extensions = [
     'nbsphinx_link',
 ]
 
+# -- Mock 依赖 -----------------------------------------------------
+# 避免在 ReadTheDocs 上构建时因为缺依赖失败
+autodoc_mock_imports = ["torch", "numpy", "pandas"]
+
 nbsphinx_allow_errors = True
 
 intersphinx_mapping = {
