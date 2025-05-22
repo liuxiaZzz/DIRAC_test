@@ -28,7 +28,7 @@ extensions = [
 
 # -- Mock 依赖 -----------------------------------------------------
 # 避免在 ReadTheDocs 上构建时因为缺依赖失败
-autodoc_mock_imports = ["torch", "numpy", "pandas"]
+autodoc_mock_imports = ["torch", "numpy", "pandas", "scipy"]
 
 nbsphinx_allow_errors = True
 
