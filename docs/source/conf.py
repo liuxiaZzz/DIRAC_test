@@ -28,7 +28,12 @@ extensions = [
 
 # -- Mock 依赖 -----------------------------------------------------
 # 避免在 ReadTheDocs 上构建时因为缺依赖失败
-autodoc_mock_imports = ["torch", "numpy", "pandas", "scipy", "torch_sparse"]
+autodoc_mock_imports = [
+    "numpy", "pandas", "scipy", "matplotlib", "torch",
+    "scanpy", "networkx", "sklearn", "seaborn", "statsmodels",
+    "anndata", "h5py", "plotly", "umap", "pyyaml"
+]
+
 
 nbsphinx_allow_errors = True
 
