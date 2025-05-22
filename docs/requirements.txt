@@ -6,4 +6,3 @@ furo
 ipython
 scanpydoc
 sphinx-gallery
-numpy
