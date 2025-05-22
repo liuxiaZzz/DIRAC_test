@@ -31,7 +31,8 @@ extensions = [
 autodoc_mock_imports = [
     "numpy", "pandas", "scipy", "matplotlib", "torch",
     "scanpy", "networkx", "sklearn", "seaborn", "statsmodels",
-    "anndata", "h5py", "plotly", "umap", "pyyaml", "torch_sparse"
+    "anndata", "h5py", "plotly", "umap", "pyyaml", "torch_sparse",
+    "torch_geometric"
 ]
 
 
